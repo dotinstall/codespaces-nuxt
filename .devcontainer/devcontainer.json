@@ -8,7 +8,7 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "src/App.vue"
+        "app.vue"
       ]
     },
     "vscode": {
